@@ -36,6 +36,9 @@
   --dl-space-space-oneandhalfunits: 24px;
 }
 
+.App {
+  
+}
 
 .button {
   color: var(--dl-color-gray-black);
